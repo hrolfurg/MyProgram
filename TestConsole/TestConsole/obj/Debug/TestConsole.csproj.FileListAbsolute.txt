@@ -1,0 +1,6 @@
+C:\temp\gittest\MyProgram\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\temp\gittest\MyProgram\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\temp\gittest\MyProgram\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\temp\gittest\MyProgram\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\temp\gittest\MyProgram\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\temp\gittest\MyProgram\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
