@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{7DAD864C-415E-414F-B280-CDDC983C5116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxNetCore", "LinuxNetCore\LinuxNetCore.csproj", "{3D33EFF4-D235-4941-B414-BA43B58E92BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{7DAD864C-415E-414F-B280-CDDC983C5116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DAD864C-415E-414F-B280-CDDC983C5116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DAD864C-415E-414F-B280-CDDC983C5116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D33EFF4-D235-4941-B414-BA43B58E92BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D33EFF4-D235-4941-B414-BA43B58E92BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D33EFF4-D235-4941-B414-BA43B58E92BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D33EFF4-D235-4941-B414-BA43B58E92BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC30B34-0576-4665-BD49-489F128311AF}
 	EndGlobalSection
 EndGlobal

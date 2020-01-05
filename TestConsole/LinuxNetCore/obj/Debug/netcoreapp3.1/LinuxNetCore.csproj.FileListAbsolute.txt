@@ -1,0 +1,11 @@
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\bin\Debug\netcoreapp3.1\LinuxNetCore.exe
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\bin\Debug\netcoreapp3.1\LinuxNetCore.deps.json
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\bin\Debug\netcoreapp3.1\LinuxNetCore.runtimeconfig.json
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\bin\Debug\netcoreapp3.1\LinuxNetCore.runtimeconfig.dev.json
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\bin\Debug\netcoreapp3.1\LinuxNetCore.dll
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\bin\Debug\netcoreapp3.1\LinuxNetCore.pdb
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\obj\Debug\netcoreapp3.1\LinuxNetCore.csprojAssemblyReference.cache
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\obj\Debug\netcoreapp3.1\LinuxNetCore.AssemblyInfoInputs.cache
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\obj\Debug\netcoreapp3.1\LinuxNetCore.AssemblyInfo.cs
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\obj\Debug\netcoreapp3.1\LinuxNetCore.dll
+C:\Temp\gittesty\MyProgram\TestConsole\LinuxNetCore\obj\Debug\netcoreapp3.1\LinuxNetCore.pdb
